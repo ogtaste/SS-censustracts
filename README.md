@@ -5,7 +5,7 @@ The purpose of this project is the examine the locations and efficacy of acousti
 
 The ShotSpotter system uses AI, hundreds of listening devices set up around the city, and spatial triangulation to identify a gunshot, its location, and its time of occurrence. 
 
-In the case of United States v. Michael Williams in Chicago this year, ShotSpotter evidence put a man in prison for murder in a case that had what AP called "scant evidence". The Brighton Park Neighborhood Council, et al. filed an amicus brief in Williams' case containing an in-depth analysis of ShotSpotter performance, which is rare. 
+In the case of [United States v. Michael Williams](https://apnews.com/article/artificial-intelligence-algorithm-technology-police-crime-7e3345485aa668c97606d4b54f9b6220) in Chicago this year, ShotSpotter evidence put a man in prison for murder in a case that had what AP called "scant evidence". The Brighton Park Neighborhood Council, et al. filed an amicus brief in Williams' case containing an [in-depth analysis](https://endpolicesurveillance.com/) of ShotSpotter performance, which is rare. 
 
 The analysis studied over 40,000 ShotSpotter alerts between July 2019 and April 2021 and found that 88.72% of alerts "did not result in police recording any kind of incident involving a gun," and that 85.60% of ShotSpotter did not result in a case report being filed by police. The amicus brief also emphasized that the ShotSpotter system is consistently fooled by loud or sudden noises such as vehicle engines and fireworks.
 
