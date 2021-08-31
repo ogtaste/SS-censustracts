@@ -11,7 +11,7 @@ The analysis studied over 40,000 ShotSpotter alerts between July 2019 and April 
 
 #### Infographic
 
-In this GH repo, you'll find (1) a source KML of DC's census tracts from opendata.gov; (2) a GeoJSON converted using geojson.io to satisfy compatibility with MapBox's API (not to mention, I just like using GeoJSON); and (3) a source code HTML file containing the infographic CSS and MapBox JS (all in one file because I hate myself).
+In this GH repo, you'll find (1) a source KML of DC's census tracts from [opendata.gov](https://opendata.dc.gov/datasets/census-tracts-in-2020-1); (2) a GeoJSON converted using geojson.io to satisfy compatibility with MapBox's API (not to mention, I just like using GeoJSON); and (3) a source code HTML file containing the infographic CSS and MapBox JS (all in one file because I hate myself).
 
 #### Other Research
 1. Starting on Jan 1, 2019, ShotSpotter started an "autoacknowledged" feature that brought humans into the equation. If sensors picked up a possible gunshot but the AI wasn't sure, it would send the noise over to a listening center where an employee would listen to the sound and then have the ability to change its classification. This presents a "natural experiment" between years 2018 and 2019. 
